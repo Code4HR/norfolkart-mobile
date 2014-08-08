@@ -1,4 +1,4 @@
 norfolkart-mobile
 =================
 
-An Android interface for the iArtNorfolk data.
+A [Replicant] (http://www.replicant.us/) interface for the iArtNorfolk data.
